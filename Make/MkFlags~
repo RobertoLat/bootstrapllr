@@ -1,0 +1,2 @@
+CC = g++
+CFLAG=  -Wall -O3  -msse -msse2 -mavx
