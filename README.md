@@ -1,1 +1,1 @@
-Code for LLR bootstrap analisys
+Code for LLR bootstrap analysis
