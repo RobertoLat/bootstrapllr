@@ -2,7 +2,7 @@ SHELL := /bin/bash
 MKDIR=../Make
 include $(MKDIR)/MkFlags
 PROF= #-pg
-MOD=../Modules/
+MOD=../Modules
 EXE = a bs_corr logZ prob
 SRC= a.cc bs_corr.cc logZ.cc prob.cc
 
